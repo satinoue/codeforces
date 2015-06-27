@@ -29,6 +29,6 @@ int main() {
         min = l - count;
     }
     ret = l - min * 2;
-    printf ("%d", ret);
+    //printf ("%d", ret);
     return ret;
 }
